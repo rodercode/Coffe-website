@@ -1,0 +1,13 @@
+.text-coffe {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+  width: 50%;
+}
+
+h1 {
+  text-align: center;
+}
